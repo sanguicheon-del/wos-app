@@ -10,7 +10,7 @@ export default function Hero() {
     <section className="relative isolate min-h-screen overflow-hidden bg-black">
       <Image
         src="/images/hero/hero-atelier-matcha-v1.png"
-        alt="W° Atelier Beverage Hero Desktop"
+        alt="W° BYLOCOFFEE Hero Desktop"
         fill
         priority
         sizes="100vw"
@@ -22,8 +22,8 @@ export default function Hero() {
       <div className="absolute left-16 top-12 z-20 hidden items-center gap-5 lg:flex">
         <span className="text-[58px] font-extralight tracking-tight text-[#ECE2D7]">W°</span>
         <div className="leading-5 text-[11px] uppercase tracking-[0.42em] text-[#C8BAAB]">
-          <p>ATELIER</p>
-          <p>BEVERAGE</p>
+          <p>BYLOCOFFEE</p>
+          
         </div>
       </div>
 
@@ -36,9 +36,9 @@ export default function Hero() {
       <div className="absolute left-16 top-1/2 z-20 hidden w-130 -translate-y-1/2 lg:left-32 lg:block xl:left-40">
         <p className="text-[10px] uppercase tracking-[0.65em] text-[#D7C9BB]">WELCOME TO</p>
         <h1 className="mt-8 text-[80px] font-extralight uppercase leading-[1.18] tracking-[0.12em] text-[#F2E8DD]">
-          W° ATELIER
+          W° BYLOCOFFEE
           <br />
-          BEVERAGE
+      
         </h1>
         <div className="mt-12 h-px w-20 bg-[#8D7866]" />
         <h2 className="mt-5 text-[18px] uppercase tracking-[0.34em] text-[#EEE4D9]">
@@ -63,7 +63,7 @@ export default function Hero() {
       </div>
 
       <div className="absolute bottom-14 right-16 z-20 hidden text-right lg:block">
-        <p className="text-[15px] uppercase tracking-[0.30em] text-[#EEE4D9]">W° ATELIER BEVERAGE</p>
+        <p className="text-[15px] uppercase tracking-[0.30em] text-[#EEE4D9]">W BYLOCOFFEE</p>
         <p className="mt-4 text-[11px] tracking-[0.30em] text-[#9B8877]">Premium Take Away Experience</p>
       </div>
 

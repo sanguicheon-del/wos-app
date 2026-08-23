@@ -6,7 +6,7 @@ export default function AppHeader() {
           W°
         </span>
         <span className="border-l border-[#dcd5cc] pl-2.5 text-[8px] leading-3 tracking-[0.25em] text-[#786f65]">
-          ATELIER<br />BEVERAGE
+          BYLOCOFFEE<br />BYLOCOFFEE
         </span>
       </div>
       <span className="inline-flex min-h-11 items-center text-xs text-[#655d54]">Thành viên W°</span>

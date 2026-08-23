@@ -8,7 +8,7 @@ export default function AccountPage() {
       title="Không gian của bạn"
       description="Thông tin hồ sơ và sở thích sẽ được cá nhân hoá trong những phiên bản tiếp theo."
     >
-      <PlaceholderCard label="W° account" title="Chào mừng bạn đến với Atelier" description="Chức năng tài khoản chưa được kích hoạt trong giai đoạn xây dựng ứng dụng ban đầu." />
+      <PlaceholderCard label="W° account" title="Chào mừng bạn đến với BYLOCOFFEE" description="Chức năng tài khoản chưa được kích hoạt trong giai đoạn xây dựng ứng dụng ban đầu." />
     </AppScreen>
   );
 }

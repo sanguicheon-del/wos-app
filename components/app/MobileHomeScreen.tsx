@@ -29,7 +29,7 @@ export default function MobileHomeScreen() {
             <div className="relative h-56 bg-[#e4e5db] sm:h-64">
               <Image
                 src="/images/hero/hero-mobile.png"
-                alt="Matcha Atelier của W° Atelier Beverage"
+                alt="Matcha BYLOCOFFEE của W° BYLOCOFFEE"
                 fill
                 sizes="(max-width: 480px) calc(100vw - 40px), 432px"
                 className="object-cover object-[center_76%]"
@@ -38,7 +38,7 @@ export default function MobileHomeScreen() {
             <div className="p-5">
               <div className="flex items-start justify-between gap-4">
                 <div>
-                  <h3 className="text-xl font-normal tracking-[-0.02em] text-[#292621]">Matcha Atelier</h3>
+                  <h3 className="text-xl font-normal tracking-[-0.02em] text-[#292621]">Matcha BYLOCOFFEE</h3>
                   <p className="mt-2 max-w-xs text-sm leading-6 text-[#71685e]">
                     Matcha thanh mát, hòa quyện cùng lớp sữa dịu nhẹ.
                   </p>
