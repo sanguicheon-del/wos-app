@@ -7,8 +7,8 @@ export const metadata: Metadata = {
   description: "Bylo Coffee — Premium Take Away Experience",
 
   icons: {
-    icon: "/favicon.ico",
-    apple: "/apple-icon.png",
+    icon: "/icon.png",
+    apple: "/icon.png",
   },
 
   appleWebApp: {
