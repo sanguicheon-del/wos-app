@@ -3,8 +3,19 @@ import "./globals.css";
 import { inter } from "./fonts";
 
 export const metadata: Metadata = {
-  title: "W° OS",
-  description: "Customer Experience Operating System",
+  title: "Bylo Coffee",
+  description: "Bylo Coffee — Premium Take Away Experience",
+
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-icon.png",
+  },
+
+  appleWebApp: {
+    capable: true,
+    title: "Bylo Coffee",
+    statusBarStyle: "default",
+  },
 };
 
 export default function RootLayout({
