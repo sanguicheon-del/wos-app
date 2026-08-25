@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+ximport type { Metadata } from "next";
 import "./globals.css";
 import { inter } from "./fonts";
 
